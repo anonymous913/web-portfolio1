@@ -55,8 +55,8 @@ section{
 }
 .single-experience{
     box-shadow:10px 10px 40px gray; 
-    border-radius: 20px;
-    height: 60%;
+    border-radius:5px;
+    height: 80%;
     background-color: white;
 }
 .experience-area{
@@ -68,9 +68,11 @@ section{
 #baby{
     border-left:7px solid;
 }
+#pro-dev{
+    border-left: 7px solid;
+}
 footer p{
     text-align: center;
     background-color: gray;
     color:white;
 }
-#
