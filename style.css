@@ -63,6 +63,7 @@ section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    display:inline-table;
 }
 #baby{
     border-left:7px solid;
@@ -72,3 +73,4 @@ footer p{
     background-color: gray;
     color:white;
 }
+#
