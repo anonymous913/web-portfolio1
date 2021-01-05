@@ -65,14 +65,10 @@ section{
     background-position: left;
     display:inline-table;
 }
-#baby{
-    border-left:7px solid;
-}
-#pro-dev{
-    border-left: 7px solid;
-}
+
 footer p{
     text-align: center;
     background-color: gray;
     color:white;
 }
+
